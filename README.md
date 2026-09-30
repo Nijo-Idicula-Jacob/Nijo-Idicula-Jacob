@@ -94,15 +94,6 @@
 
 ---
 
-### 📊 Performance & Repository Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nijo-Idicula-Jacob&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Nijo's GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nijo-Idicula-Jacob&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="155" />
-</p>
-
----
-
 <div align="center">
   <p><strong>Let's connect:</strong> Feel free to explore my repositories, open an issue, or discuss machine learning implementations via <a href="https://www.linkedin.com/in/nijo-idicula-jacob-0486b8241">LinkedIn</a>.</p>
 </div>
