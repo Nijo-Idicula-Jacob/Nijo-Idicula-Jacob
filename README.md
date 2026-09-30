@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nijo Idicula Jacob</h1>
 <h3 align="center">Python Developer | Machine Learning & Computer Vision Enthusiast</h3>
 
