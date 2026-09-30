@@ -94,7 +94,12 @@
 
 ---
 
-<div align="center">
+<div>
+  
+🔭 I'm currently building projects around **Machine Learning**, **Computer Vision**, and **Flask-based web apps**
+- 🌱 I'm continuously learning new tools in the Python & AI/ML ecosystem
+- 💡 I enjoy turning practical ideas — like gesture-based interfaces — into working applications
+- ⚡ Fun fact: I like building things that blend hardware-free interaction (like virtual keyboards) with code
   <p><strong>Let's connect:</strong> Feel free to explore my repositories, open an issue, or discuss machine learning implementations via <a href="https://www.linkedin.com/in/nijo-idicula-jacob-0486b8241">LinkedIn</a>.</p>
 </div>
 
@@ -117,6 +122,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nijo-Idicula-Jacob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nijo's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nijo-Idicula-Jacob&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
 
 ---
 
