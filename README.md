@@ -1,28 +1,4 @@
-<div align="center">
-  <h1>Hi 👋, I'm Nijo Idicula Jacob</h1>
-  <h3>Python Developer &bull; Machine Learning &bull; Computer Vision</h3>
-
-  <p>
-    <a href="https://www.linkedin.com/in/nijo-idicula-jacob-0486b8241" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://nijo-idicula-jacob.github.io/nijo-idicula-jacob.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔭 **Current Focus:** Developing end-to-end Machine Learning pipelines and Computer Vision applications integrated with Flask backends.
-- 💡 **Engineering Passion:** Translating raw computer vision into real-time, touchless interfaces and intelligent automation.
-- 🌱 **Continuous Learning:** Exploring deep learning architectures, deployment patterns, and scalable Python ecosystems.
-- ⚡ **Fun Fact:** I enjoy replacing physical input devices with computer vision alternatives like virtual gesture keyboards.
-
----
-
+<
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
