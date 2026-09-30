@@ -1,5 +1,61 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Nijo Idicula Jacob</h1>
+<h3 align="center">Python Developer | Machine Learning & Computer Vision Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nijo-idicula-jacob-0486b8241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I'm currently building projects around **Machine Learning**, **Computer Vision**, and **Flask-based web apps**
+- 🌱 I'm continuously learning new tools in the Python & AI/ML ecosystem
+- 💡 I enjoy turning practical ideas — like gesture-based interfaces — into working applications
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nijo-idicula-jacob-0486b8241)
+- ⚡ Fun fact: I like building things that blend hardware-free interaction (like virtual keyboards) with code
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Flaskapp_with_ML](https://github.com/Nijo-Idicula-Jacob/Flaskapp_with_ML) | A Flask web application integrating a machine learning model for predictions/inference |
+| [Virtual-keyboard-](https://github.com/Nijo-Idicula-Jacob/Virtual-keyboard-) | A Python-based virtual keyboard, likely using computer vision for touchless input |
+| [faculty-recoginition-programme](https://github.com/Nijo-Idicula-Jacob/faculty-recoginition-programme) | A Python program for faculty recognition/management |
+| [nijo-idicula-jacob.io](https://github.com/Nijo-Idicula-Jacob/nijo-idicula-jacob.io) | Personal portfolio website |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nijo-Idicula-Jacob&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nijo-Idicula-Jacob" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
+
 <!--
 **Nijo-Idicula-Jacob/Nijo-Idicula-Jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
