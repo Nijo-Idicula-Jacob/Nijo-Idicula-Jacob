@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>AI, CV & Data</strong></td>
+    <td valign="top"><strong>AI, OPEN CV & Data</strong></td>
     <td>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
